@@ -196,3 +196,8 @@ yarn test
 
 ## License
 MIT
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=markjaniczak/symbology-scanner&type=Date)](https://star-history.com/#markjaniczak/symbology-scanner&Date)
+
